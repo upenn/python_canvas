@@ -4,4 +4,4 @@ Lightweight APIs for accessing the Canvas LMS, built as part of a Penn CIS Depar
 
 To install:
 
-`pip install python_canvas`
+`pip install python_canvas_layer`
