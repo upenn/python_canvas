@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "Python_canvas_layer"
-version = "0.0.2"
+name = "python_canvas_layer"
+version = "0.0.3"
 authors = [
   { name="Zack Ives", email="zives@cis.upenn.edu" },
 ]

@@ -14,8 +14,8 @@
 ##
 #####################################################################################################################
 
-from python_canvas.pycanvas import CanvasConnection
-from python_canvas.course_info import CourseWrapper
+from python_canvas_layer.pycanvas import CanvasConnection
+from python_canvas_layer.course_info import CourseWrapper
 import pandas as pd
 from datetime import datetime
 import pytz
